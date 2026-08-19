@@ -1,5 +1,5 @@
 # hour-minute-second
-my first Git Repository
+This is my first Git Repository
 
 
 sec = 6000
